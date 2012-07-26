@@ -1,4 +1,4 @@
-Wordpress on OpenShift
+WSGI Test on OpenShift
 ======================
 
 This git repository is a Quickstart for a simple Python WSGI on OpenShift.
